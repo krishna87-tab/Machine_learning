@@ -1,4 +1,4 @@
-                                             Predictive Health Insurance Model for Shield Insurance
+Predictive Health Insurance Model for Shield Insurance
 
 Project Overview
 AtliQ AI is developing a Predictive Health Insurance Model for Shield Insurance to estimate health insurance premiums 
